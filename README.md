@@ -1,5 +1,5 @@
 # Consensus-from-trust
-Cryptocurrency Project
+*Cryptocurrency Project*
 
 A distributed consensus algorithm is designed, given a graph of “trust” relationships between nodes. This is an alternative method of resisting sybil attacks and achieving consensus; it has the benefit of not “wasting” electricity like proof-of-work does.
 Nodes can be either compliant or malicious. Malicious nodes have the following behaviour:
